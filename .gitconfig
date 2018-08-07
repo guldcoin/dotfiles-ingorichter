@@ -1,0 +1,11 @@
+[user]
+	username = ingorichter
+	name = Ingo Richter
+	location = San Francisco, USA
+	website = http://www.ingo-richter.io
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = ingorichter
+	twitter = ingorichter
+	github = ingorichter
